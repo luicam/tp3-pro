@@ -7,6 +7,6 @@ tp3 programacion
 MayorEdadAlumnos.py 
 clasifica los datos del archivo recibido, con formato: nombre#edad#curso#genero#otrosDatos(separador ","), en otro fichero en el que solo apareceran los mismos datos, pero unicamente aquellos mayores de edad.
 
-Tiene asociado otro script que le proporciona una funcion comprobarEdad(nombre), la utiliza en un momento determinado solo para mostrarpor pantalla el por que una linea puede no estar en el fichero resultado.
+Tiene asociado otro script que le proporciona una funcion comprobarEdad(nombre), la utiliza en un momento determinado solo para mostrar por pantalla el por que una linea no esta en el fichero resultado.
 
 
