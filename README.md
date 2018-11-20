@@ -13,8 +13,13 @@ misfunciones.py:
 Tiene asociado otro script que le proporciona una funcion comprobarEdad(nombre), la utiliza en un momento determinado solo para mostrar por pantalla el por que una linea no esta en el fichero resultado.
 
 en proceso de mejora.....
+
 mas funcionalidades.....
+
 control de errores .....
+
 en proceso.....
+
+probar: py mayorEdadAlumnos.py file fileresultados
 
 
