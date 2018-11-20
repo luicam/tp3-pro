@@ -1,6 +1,6 @@
 # tp3-pro
 TP3 programacion
-- Presentar en tu cuenta github un proyecto python que tenga las siguientes características.
+Presentar en tu cuenta github un proyecto python que tenga las siguientes características.
 
 -- algunas de ellas, una como mínimo --
       
