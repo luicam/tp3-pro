@@ -8,7 +8,7 @@ fs = open(argv[2], "w")
 linea = fe.readline().strip()
 while linea != "":
   palabras = linea.split("#")
-  if palabras[1] > 18:
+  if int(palabras[1]) > 18:
   	edad=comprobarEdad(palabras[0])
   	print(palabras[0]+" no estara en el fichero de salida por que tiene "+str(edad)+" anyos.")
   	fs.write(linea)
